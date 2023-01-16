@@ -1,0 +1,19 @@
+.banner{
+
+       background-color : darkslategray;
+       width: 50%;
+       height: 50px;
+       margin-bottom:50x;
+}
+
+.baner-text{
+
+          top:50%;
+          left:50%;
+          position:center;
+          transform:transform;
+          text-align :center;
+          margin : 0 auto
+          width : 60%
+
+}
